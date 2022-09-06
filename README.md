@@ -19,6 +19,7 @@ The flow rate sensor was used as a test for a system to gather quantifiable data
 ### Depth Sensor
 Information about the depth of the water was decided to be collected using an ultrasonic sensor and a tube. It was found through research that ultrasonic waves still has a successful operation within a tube with seamless walls [2]. This would allow the sensor to be mounted outside the water and be mostly protected from the environment. There would be a small puck that would float on top of the surface of the water that would bounce the ultrasonic waves back to the sensor allowing for the length from the sensor to the surface of the water to be found. The depth of the water could then be found by using a previously measured distance from the top of the pipe to the bottom of the river to give a rough estimate of the depth of the river. This would allow the device to notify the users of a low-depth of the river and any problems that may arise from that.
 
+![Device Image](/img/device.png)
 
 #### Sources
 [1] Chen, W.-Y., Jou, L.-J., Chen, S.-H., & Liao, C.-M. (2012). A real-time biomonitoring system to detect arsenic toxicity by valve movement in freshwater clam Corbicula fluminea. Ecotoxicology, 21(4), 1177–1187. https://doi.org/10.1007/s10646-012-0872-9
